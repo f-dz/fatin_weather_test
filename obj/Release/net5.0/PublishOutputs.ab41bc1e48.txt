@@ -1,0 +1,11 @@
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.exe
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\appsettings.Development.json
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\appsettings.json
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.dll
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.deps.json
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.runtimeconfig.json
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.pdb
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LEARN\C#\Sesi-13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
